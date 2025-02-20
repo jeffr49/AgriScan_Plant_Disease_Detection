@@ -1,16 +1,13 @@
-# plant_disease
+# AgriScan: AI-Driven Plant Disease Detection Using Deep Learning & Flutter
 
-A new Flutter project.
+AgriScan is a Flutter-based mobile application that uses Machine Learning to detect plant diseases from leaf images. The app allows farmers and agricultural experts to scan plant leaves using their device camera or gallery images, and it sends the image to a Dockerized backend running a pre-trained deep learning model. The model processes the image and returns the detected disease name, which the app then uses to navigate to the relevant disease information page.
 
-## Getting Started
+🔹 Features:
+✅ Scan Leaves – Capture or upload an image for disease detection.  
+✅ AI-Powered Classification – A deep learning model analyzes the image.    
+✅ Disease Info Pages – Learn about symptoms, prevention, and treatments.
+✅ Predefined Test Images – Quickly test the app with built-in images.  
+✅ Contribute to Dataset – Farmers can upload images to improve AI accuracy.  
 
-This project is a starting point for a Flutter application.
+🚀 Tech Stack: Flutter (Dart) | TensorFlow (Python) | FastAPI | Docker  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
