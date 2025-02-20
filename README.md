@@ -5,7 +5,7 @@ AgriScan is a Flutter-based mobile application that uses Machine Learning to det
 🔹 Features:  
 ✅ Scan Leaves – Capture or upload an image for disease detection.  
 ✅ AI-Powered Classification – A deep learning model analyzes the image.      
-✅ Disease Info Pages – Learn about symptoms, prevention, and treatments.
+✅ Disease Info Pages – Learn about symptoms, prevention, and treatments.  
 ✅ Predefined Test Images – Quickly test the app with built-in images.  
 ✅ Contribute to Dataset – Farmers can upload images to improve AI accuracy.  
 
