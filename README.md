@@ -11,3 +11,5 @@ AgriScan is a Flutter-based mobile application that uses Machine Learning to det
 
 🚀 Tech Stack: Flutter (Dart) | TensorFlow (Python) | FastAPI | Docker  
 
+## Link to the video of the app: [Google-Drive Link](https://drive.google.com/file/d/14QrvZ7W243P9Eml1vOrxl4XHAGm9yVGJ/view?usp=sharing)
+
